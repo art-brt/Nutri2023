@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nutri2023", "Nutri2023\Nutri2023.vbproj", "{9C0C758B-89A0-429C-9F20-EE670427B7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0C758B-89A0-429C-9F20-EE670427B7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0C758B-89A0-429C-9F20-EE670427B7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0C758B-89A0-429C-9F20-EE670427B7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0C758B-89A0-429C-9F20-EE670427B7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BFB9F83-6231-444A-AC9F-32B9FF39E3F9}
+	EndGlobalSection
+EndGlobal
